@@ -1,5 +1,5 @@
 # React + Vite
-/* ------------------------------------------------- */
+//*-------------------------------------------------*//
 # React To-Do Application
 
 A modern To-Do application built using **React** that allows users to manage tasks efficiently.
@@ -21,3 +21,8 @@ A modern To-Do application built using **React** that allows users to manage tas
 ```bash
 npm install
 npm run dev
+
+ ## 📸 Preview
+
+![To-Do App Preview](public/preview.png)
+
