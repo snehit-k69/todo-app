@@ -21,8 +21,10 @@ A modern To-Do application built using **React** that allows users to manage tas
 ```bash
 npm install
 npm run dev
+```
 
  ## 📸 Preview
-
-![To-Do App Preview](public/preview.png)
-
+ 
+<p align="center">
+  <img src="public/preview.png" width="800" />
+</p>
